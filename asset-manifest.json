@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/luvlyfancy/static/css/main.b263a94c.css",
-    "main.js": "/luvlyfancy/static/js/main.7135ca61.js",
+    "main.css": "/luvlyfancy/static/css/main.46524f5a.css",
+    "main.js": "/luvlyfancy/static/js/main.c9ae9b76.js",
     "static/media/disclamer1.png": "/luvlyfancy/static/media/disclamer1.acdaa6dc3cfc5a81c84c.png",
+    "static/media/toxic_till_the_end.jpeg": "/luvlyfancy/static/media/toxic_till_the_end.3895e0e35da03eed0813.jpeg",
+    "static/media/logo.png": "/luvlyfancy/static/media/logo.7d0b217d4fc6bb2195c7.png",
     "static/media/home1.jpeg": "/luvlyfancy/static/media/home1.05791c7907affd45b07f.jpeg",
     "index.html": "/luvlyfancy/index.html",
-    "main.b263a94c.css.map": "/luvlyfancy/static/css/main.b263a94c.css.map",
-    "main.7135ca61.js.map": "/luvlyfancy/static/js/main.7135ca61.js.map"
+    "main.46524f5a.css.map": "/luvlyfancy/static/css/main.46524f5a.css.map",
+    "main.c9ae9b76.js.map": "/luvlyfancy/static/js/main.c9ae9b76.js.map"
   },
   "entrypoints": [
-    "static/css/main.b263a94c.css",
-    "static/js/main.7135ca61.js"
+    "static/css/main.46524f5a.css",
+    "static/js/main.c9ae9b76.js"
   ]
 }
